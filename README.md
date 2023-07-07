@@ -4,7 +4,7 @@
 This repository contains a demo application that showcases live tracking functionality using Flutter and Node.js with Socket.IO. The application allows real-time location updates of users and displays their positions on a map.
 
 ## Features
-- Live tracking of users' locations in real-time.
+- Live tracking of users locations in real-time.
 - Displaying the user positions on a map.
 - Socket.IO integration for real-time - communication between the Flutter client and the Node.js server.
 Prerequisites
