@@ -14,7 +14,6 @@ dependencies:
   geolocator: ^9.0.2
   georouter: ^0.0.1+1
   google_maps_flutter: ^2.3.1
-  location: ^4.4.0
   socket_io_client: ^2.0.2
 
 dev_dependencies:
