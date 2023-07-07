@@ -1,0 +1,29 @@
+name: real_time_tracking
+description: A new Flutter project.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.3 <4.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  geolocator: ^9.0.2
+  georouter: ^0.0.1+1
+  google_maps_flutter: ^2.3.1
+  location: ^4.4.0
+  socket_io_client: ^2.0.2
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/icons/car.png
