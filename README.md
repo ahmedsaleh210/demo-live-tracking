@@ -23,7 +23,7 @@ Follow these steps to get the demo application up and running:
 
 3. Run the following command to install the required dependencies:
 
-```yaml
+```dart
 flutter pub get
 ```
 
@@ -39,7 +39,7 @@ npm install
 3. Once the dependencies are installed, start the Node.js server using the following command:
 
 ```javascript
-node server.js
+node index.js
 ```
 The server will start running on the specified port (default is 3700).
 
